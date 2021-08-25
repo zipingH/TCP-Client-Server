@@ -1,6 +1,6 @@
 # TCP Centralized Client-Server Network 
 
-# Name: Ziping Huang (916155583)
+# Name: Ziping Huang 
 # General description of the project:
 In this project, I have created a MultiThreading TCP Server with sockets which can handle multiple connections from the client. The client will be prompted to provide a name to the server and the connection will be established. Once the client is connected to the server, the server will send a menu and the client will send back the options that is selected which will be processed by the server and send back to the client. Overall, this project shows what a TCP Network is like by sending and receving data between server and client.
 
